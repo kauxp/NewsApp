@@ -42,12 +42,12 @@ The Flutter News Application is a mobile app that fetches live news from the [Ne
    flutter pub get
 
 3. **Setting up ENV variables**:
-```bash
+   ```bash
    create a .env file
    copy the contents of .env.example 
    add your API KEY
    ```
 
 4. **Run the app**:
-```bash
+   ```bash
    flutter run
